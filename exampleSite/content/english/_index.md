@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: Contact Us Today
-    link: project
+    link: contact
 about:
   enable: false
   title: About Us
