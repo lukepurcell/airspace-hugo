@@ -1,5 +1,5 @@
 baseURL = "http://carmans.netlify.com"
-disableLanguages = ["fr"]
+disableLanguages = ["de", "it", "fr"]
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "4"
