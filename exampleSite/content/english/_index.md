@@ -3,8 +3,7 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: SMSF Services | Factoring Finance | Capital Raising <br/> Business Management
-    and Consulting
+  title: Specialist Accountancy Practice
   content: SMSF Services | Factoring Finance | Capital Raising | Business Management
     and Consulting
   button:
