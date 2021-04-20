@@ -8,7 +8,7 @@ banner:
     and Consulting
   button:
     enable: true
-    label: Discover Our Project
+    label: Contact Us Today
     link: project
 about:
   enable: true
