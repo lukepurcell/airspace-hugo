@@ -3,8 +3,10 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: Taxation Accountants <br/> & Financial Planning
-  content: Bespoke taxation accountancy practice focusing on a niche customer base.
+  title: SMSF Services | Factoring Finance | Capital Raising <br/> Business Management
+    and Consulting
+  content: SMSF Services | Factoring Finance | Capital Raising | Business Management
+    and Consulting
   button:
     enable: true
     label: Discover Our Project
