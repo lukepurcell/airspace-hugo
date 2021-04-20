@@ -11,7 +11,7 @@ banner:
     label: Contact Us Today
     link: project
 about:
-  enable: true
+  enable: false
   title: About Us
   description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
@@ -24,7 +24,7 @@ about:
     culpa qui officia deserunt mollit anim id.
   image: images/wrapper-img.png
 portfolio:
-  enable: true
+  enable: false
   bg_image: images/feature-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
@@ -53,7 +53,7 @@ cta:
     label: Tell Us Your Story
     link: contact
 funfacts:
-  enable: true
+  enable: false
   title: Fun Facts About Us
   description: "'Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
